@@ -1,0 +1,1 @@
+area_rename = 'price_per_sqft'
